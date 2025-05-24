@@ -1,0 +1,6 @@
+Superstore Sales Dashboard Insights:
+
+1. The highest total sales were recorded in the 'West' region, reaching $725,457.82.
+2. Among all categories, 'Technology' dominated with sales totaling approximately $836,154.03.
+3. Sales peaked in '2017-11' with a total of $118,447.82, likely indicating seasonal demand.
+4. The 'West' region displayed the most stable sales performance with the least variance across the year.
